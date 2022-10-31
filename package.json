@@ -1,8 +1,8 @@
 {
-  "name": "practice31102022",
+  "name": "gallery-react-stepan-local",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://saintajax.github.io/practice31102022/",
+  "homepage": "https://arturmand.github.io/gallery-react-stepan-local/",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.3",
     "@testing-library/react": "^12.1.4",
