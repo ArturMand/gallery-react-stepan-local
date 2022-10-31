@@ -1,6 +1,7 @@
 import { Component } from 'react';
 import { List } from './List/List';
 import { ModalWind } from './Modal/Modal';
+import { MyGalleryList } from './MyGalleryList/MyGalleryList';
 import { Select } from './Selecet/Select';
 
 export class App extends Component {
@@ -44,7 +45,8 @@ export class App extends Component {
           largeImg={latrgeImg}
           isOpen={isOpen}
         />
-        React homework template
+        <h1>Local gallery</h1>
+        <MyGalleryList/>
       </div>
     );
   }
